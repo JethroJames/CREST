@@ -13,7 +13,7 @@
 </div>
 
 
->In this work, we propose a bidirectional cross-modal ZSL approach **<u>C</u>ross-modal <u>R</u>esonance through <u>E</u>vidential Deep Learning for Enhanced Zero-<u>S</u>ho<u>t</u> Learning (CREST)** that begins by extracting representations for attribute and visual localization and employs Evidential Deep Learning (EDL) to measure underlying epistemic uncertainty and incorporates dual learning pathways, focusing on both visual-category and attribute-category alignments, to ensure robust correlation between latent and observable spaces. Moreover, we introduce an uncertainty-informed cross-modal fusion technique to refine visual-attribute inference. Extensive experiments demonstrate our model's effectiveness and unique explainability across multiple datasets.
+>In this work, we propose a bidirectional cross-modal ZSL approach termed **<u>C</u>ross-modal <u>R</u>esonance through <u>E</u>vidential Deep Learning for Enhanced Zero-<u>S</u>ho<u>t</u> Learning (CREST)** that begins by extracting representations for attribute and visual localization and employs Evidential Deep Learning (EDL) to measure underlying epistemic uncertainty and incorporates dual learning pathways, focusing on both visual-category and attribute-category alignments, to ensure robust correlation between latent and observable spaces. Moreover, we introduce an uncertainty-informed cross-modal fusion technique to refine visual-attribute inference. Extensive experiments demonstrate our model's effectiveness and unique explainability across multiple datasets.
 >
 <div align="center">
     <img src="https://github.com/JethroJames/CREST/blob/main/Fig/CREST.jpg" width="95%" height="auto" />
