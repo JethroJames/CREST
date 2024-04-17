@@ -3,12 +3,14 @@
     <img src="https://github.com/JethroJames/CREST/blob/main/Fig/TeleAI.png" width="10%" height="auto" />
 </div>
 <!-- [![TeleAI](https://github.com/JethroJames/CREST/blob/main/Fig/TeleAI.png)](https://github.com/Tele-AI) -->
+<div align="center">
 
-![](https://img.shields.io/badge/version-1.0.1-blue)
+![version 1.0.1](https://img.shields.io/badge/version-1.0.1-blue)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/zjukg/SNAG/blob/main/LICENSE)
 [![arxiv badge](https://img.shields.io/badge/arxiv-2403.06832-red)](https://arxiv.org/abs/2404.09640)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
+</div>
 
 
 >In this work, we propose a bidirectional cross-modal ZSL approach **Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning (CREST)** that begins by extracting representations for attribute and visual localization and employs Evidential Deep Learning (EDL) to measure underlying epistemic uncertainty and incorporates dual learning pathways, focusing on both visual-category and attribute-category alignments, to ensure robust correlation between latent and observable spaces. Moreover, we introduce an uncertainty-informed cross-modal fusion technique to refine visual-attribute inference. Extensive experiments demonstrate our model's effectiveness and unique explainability across multiple datasets.
