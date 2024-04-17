@@ -9,12 +9,12 @@
 - `2024-04` Our paper is released on [arXiv](https://arxiv.org/abs/2404.09640).
 - `2024-04` The code for pre-processing the data is available now! 
 
-## Dependencies
+## 🛠️Dependencies
 ```bash
 $ pip install -r requirements.txt
 ```
 
-#### Details
+#### ❕Details
 - Python==3.9.18
 - numpy==1.26.1
 - scikit_learn==1.2.2
@@ -23,7 +23,7 @@ $ pip install -r requirements.txt
 - tqdm==4.65.0
 - transformers==4.31.0
 
-## Step 1: Data Preparation 🗂️
+## 🗂️ Step 1: Data Preparation 
 
 Before your model can start flexing its muscles, you need to gather the superhero team of datasets: CUB, SUN, and AWA2. Just like assembling a team of avengers, make sure you've got the right versions:
 
@@ -45,7 +45,7 @@ Once you've got them all, decompress them in a folder that looks like this:
 └── ···
 ```
 
-## Step 2: Cooking the Features 🎆
+## 🎆 Step 2: Cooking the Features 
 
 Now, let's turn the heat up and cook those raw features until they're golden! Open your terminal and let the magic begin:
 
@@ -57,7 +57,7 @@ $ python preprocessing.py --dataset AWA2 --compression --device cuda:0
 
 
 
-## Train and Evaluation
+## 🏃 Train and Evaluation
 
 TeleAI takes data confidentiality seriously. Our source and code are undergoing a thorough review process and will be shared with the community once approved. Your understanding is appreciated—stay tuned!
 
