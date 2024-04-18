@@ -1,6 +1,7 @@
 # CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning
 <div align="center">
     <img src="https://github.com/JethroJames/CREST/blob/main/Fig/TeleAI.png" width="10%" height="auto" />
+    <img src="https://github.com/JethroJames/CREST/blob/main/Fig/TeleAI_Logo-blue.png" width="10%" height="auto" />
 </div>
 <!-- [![TeleAI](https://github.com/JethroJames/CREST/blob/main/Fig/TeleAI.png)](https://github.com/Tele-AI) -->
 <div align="center">
