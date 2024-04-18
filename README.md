@@ -24,7 +24,7 @@
 ## 🔥 News
 
 - `2024-04` Our paper is released on [arXiv](https://arxiv.org/abs/2404.09640).
-- `2024-04` The code for pre-processing the data is available now! 
+- `2024-04` The code for pre-processing is available now! 
 
 ## 🛠️Dependencies
 ```bash
