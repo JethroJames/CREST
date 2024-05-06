@@ -11,6 +11,7 @@
 [![arxiv badge](https://img.shields.io/badge/arxiv-2403.06832-red)](https://arxiv.org/abs/2404.09640)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![GitHub Repo Stars](https://img.shields.io/github/stars/JethroJames/CREST?label=stars&logo=github&color=brightgreen)](https://github.com/JethroJames/CREST)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JethroJames.CREST&left_color=gray&right_color=%2342b983">
 
 </div>
 
