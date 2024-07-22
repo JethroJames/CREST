@@ -86,12 +86,12 @@ TeleAI takes data confidentiality seriously. Our source and code are undergoing 
 ## 🤝 Citation
 
 ```bigquery
-@misc{huang2024crest,
-      title={CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning}, 
-      author={Haojian Huang and Xiaozhen Qiao and Zhuo Chen and Haodong Chen and Bingyu Li and Zhe Sun and Mulin Chen and Xuelong Li},
-      year={2024},
-      eprint={2404.09640},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{
+huang2024crest,
+title={{CREST}: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-ShoT Learning},
+author={Haojian Huang and Xiaozhennn Qiao and Zhuo Chen and Haodong Chen and Binyu Li and Zhe Sun and Mulin Chen and Xuelong Li},
+booktitle={ACM Multimedia 2024},
+year={2024},
+url={https://openreview.net/forum?id=RAUOcGo3Qt}
 }
 ```
